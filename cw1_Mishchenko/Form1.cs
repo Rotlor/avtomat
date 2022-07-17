@@ -56,6 +56,7 @@ namespace cw1_Mishchenko
                     timer.Stop();
                     if (pic1.Image == pic2.Image && pic2.Image == pic3.Image)
                     {
+                        this.Text = Convert.ToString(result);
                         last_result = 50;
                         result += last_result;
                         label_txt_result.Text = "Набрано очков: " + Convert.ToString(result);
@@ -69,6 +70,7 @@ namespace cw1_Mishchenko
                     }
                     else if (pic1.Image == pic2.Image || pic1.Image == pic3.Image || pic2.Image == pic3.Image)
                     {
+                        this.Text = Convert.ToString(result);
                         last_result = 10;
                         result += last_result;
                         label_txt_result.Text = "Набрано очков: " + Convert.ToString(result);
