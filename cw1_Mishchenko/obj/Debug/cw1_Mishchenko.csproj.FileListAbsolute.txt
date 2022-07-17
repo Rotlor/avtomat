@@ -1,0 +1,10 @@
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\bin\Debug\cw1_Mishchenko.exe.config
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\bin\Debug\cw1_Mishchenko.exe
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\bin\Debug\cw1_Mishchenko.pdb
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.csproj.AssemblyReference.cache
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.Form1.resources
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.Properties.Resources.resources
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.csproj.GenerateResource.cache
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.exe
+C:\Users\Artyom\source\repos\cw1_Mishchenko\cw1_Mishchenko\obj\Debug\cw1_Mishchenko.pdb
